@@ -1,2 +1,3 @@
 # ogboichidi
 A passionate Front-End Developer and ALX learner on a journey to build intuitive, user-centered web experiences. Showcasing my projects, skills, and growth in the world of software engineering.
+I’ve always been curious about how the apps, websites, and digital tools we use daily are built. What truly inspires me is the ability to transform ideas into functional, beautiful experiences through code. Starting from a non-technical background, learning to build things from scratch with just logic and creativity has been empowering. The endless potential for growth, collaboration, and impact in the tech world keeps me motivated every single day.
